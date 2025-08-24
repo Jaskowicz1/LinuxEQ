@@ -1,0 +1,23 @@
+# IDE stuff
+.idea
+.vs
+
+# Build directories
+_build
+build
+cmake-build-debug
+cmake-build-release
+cmake-build-debug-visual-studio
+cmake-build-release-visual-studio
+out
+
+# Xcode stuff
+*.xcworkspace
+*.xcuserdatad
+*.xcscheme
+
+# Apple stuff.
+.DS_Store
+
+# Any zips because not needed
+*.zip

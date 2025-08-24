@@ -1,0 +1,15 @@
+# Generated from CLion Inspection settings
+---
+Checks: '-*,
+bugprone-*,
+cert-*,
+cppcoreguidelines-*,
+google-*,
+hicpp-*,
+misc-*,
+modernize-*,
+mpi-*,
+openmp-use-default-none,
+performance-*,
+portability-*,
+readability-*'
